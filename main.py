@@ -3,7 +3,7 @@ def main():
         print("選択してください：")
         print("1: メンバー1のa")
         print("2: メンバー2のhaya")
-        print("3: メンバー3のc")
+        print("3: メンバー3のyuuta")
         print("q: 終了")
 
         choice = input("> ")
