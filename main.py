@@ -1,9 +1,9 @@
 def main():
     while True:
         print("選択してください：")
-        print("1: メンバー1のa")
-        print("2: メンバー2のhaya")
-        print("3: メンバー3のyuuta")
+        print("1: メンバー1の名前")
+        print("2: メンバー2の名前")
+        print("3: メンバー3の名前")
         print("q: 終了")
 
         choice = input("> ")
@@ -22,4 +22,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
